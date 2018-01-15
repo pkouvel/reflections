@@ -1,0 +1,4 @@
+What happens when you initialize a repository? Why do you need to do it?
+The hidden .git folder where git metadata will be saved is being created.
+Initialization is needed because otherwise Git will not be following the changes
+in the different files.
