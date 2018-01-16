@@ -21,3 +21,7 @@ Branches would be helpful is situations where one wants to try making changes to
 a project that they don't want to introduce directly on the working version of
 the project. Branches make it easier to read the history of commits because they
 are human-readable labels.
+
+How do the diagrams help you visualize the branch structure?
+It looks like a binary tree with leaves and one root which makes it very familiar
+as a concept.
