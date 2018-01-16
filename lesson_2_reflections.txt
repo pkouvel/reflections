@@ -31,3 +31,13 @@ the diagram the way we do?
 The result of merging two branches together is one single branch with the code
 and commit history of both branches. Because binary diagrams are very familiar
 concepts.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges
+manually?
+An advantage is that it makes the process of working with another person on the
+same code less cumbersome, especially when there are no conflicts - bringing the
+work of two or more people together is being done automatically. A second
+advantage is the when there is a conflict it draws the attention of the developer
+exactly at the part that has a problem. On the other hand, the fact that there is
+no conflict doesn't mean that the changes that different people introduce can work
+together.
