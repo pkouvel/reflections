@@ -10,3 +10,14 @@ database of a project. The working directory is a single checkout of one version
 of the project. The staging area is a file that stores information about what
 will go into the next commit. The staging area can help with splitting up a large
 change into multiple commits and it can also help with reviewing changes.
+
+How can you use the staging area to make sure you have one commit per logical
+change?
+By breaking up a large change into multiple smaller commits.
+
+What are some situations when branches would be helpful in keeping your history
+organized? How would branches help?
+Branches would be helpful is situations where one wants to try making changes to
+a project that they don't want to introduce directly on the working version of
+the project. Branches make it easier to read the history of commits because they
+are human-readable labels.
