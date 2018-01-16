@@ -25,3 +25,9 @@ are human-readable labels.
 How do the diagrams help you visualize the branch structure?
 It looks like a binary tree with leaves and one root which makes it very familiar
 as a concept.
+
+What is the result of merging two branches together? Why do we represent it in
+the diagram the way we do?
+The result of merging two branches together is one single branch with the code
+and commit history of both branches. Because binary diagrams are very familiar
+concepts.
