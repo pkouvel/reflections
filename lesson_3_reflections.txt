@@ -16,3 +16,12 @@ What is the benefit of having a copy of the last known state of the remote store
 It cases where there are potentially conflicting changes it's nice to have the last known 
 state of the remote stored locally so one could use log and diff to see what changes where
 introduced.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would 
+be harder?
+Collaborating without Git, Github, or any other version control system would have to entail 
+very strict planning (who is working on what when) and certain processes like following 
+very specific naming conventions. Still merging together the work by different people would
+be very difficult. It would be much easier to use a version control system like Git that 
+automatically resolves many of the collaboration issues and also provides easier and more
+transparent ways of merging code. 
