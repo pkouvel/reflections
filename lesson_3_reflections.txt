@@ -25,3 +25,11 @@ very specific naming conventions. Still merging together the work by different p
 be very difficult. It would be much easier to use a version control system like Git that 
 automatically resolves many of the collaboration issues and also provides easier and more
 transparent ways of merging code. 
+
+When would you want to make changes in a separate branch rather than directly in master? 
+What benefits does each approach have?
+Making changes in a separate branch rather than directly in master is useful when one wants
+to make changes that are experimental (for example introducing a new feature) but they also
+want to keep their master branch in working state. More over, by using separate branches and
+pull requests they can have their code reviewed before they merge it with the master branch 
+of their project.
