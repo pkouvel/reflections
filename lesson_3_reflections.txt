@@ -11,3 +11,8 @@ one instead of another?
 Branches can be created on a single repository. Clones of a repository can be created either
 locally or remotely. Forking can only happen on Github - taking an existing Github repository 
 and making a copy of it.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+It cases where there are potentially conflicting changes it's nice to have the last known 
+state of the remote stored locally so one could use log and diff to see what changes where
+introduced.
